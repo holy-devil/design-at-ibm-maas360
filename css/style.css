@@ -1,0 +1,45 @@
+body {
+  line-height: 1.5;
+  font-family: 'Lato', sans-serif;
+  overflow-x: hidden;
+  background: linear-gradient(90deg, #211d2e 20px, transparent 1%) center, linear-gradient(#211d2e 20px, transparent 1%) center, #443f58;
+  background-size: 22px 22px;
+}
+
+
+
+/****/
+
+#footer {
+  background-color: #191919;
+  padding: 20px 0px;
+}
+
+.footer-copyright {
+  color: #c0c0c0;
+  line-height: 32px;
+}
+
+.link-dec, .link-dec:hover {
+  color: #000;
+}
+
+.fa {
+  color:#EAD6DA !important;
+}
+
+
+@media (min-width: 500px) and (max-width: 768px) {
+  .intro-pic {
+    padding: : 50px;
+  }
+}
+
+@media (min-width: 20px) and (max-width: 768px) {
+
+}
+
+/****/
+
+
+
