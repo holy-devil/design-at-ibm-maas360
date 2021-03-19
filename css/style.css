@@ -19,6 +19,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+a {
+ color: #f4e1e582;
+}
+
+a:hover {
+  color: #f4e1e5;
+}
+
+
 .navbar-default {
   background-color: #161616;
   border-bottom: solid 1px #554C72;
