@@ -190,6 +190,19 @@ p {
   .navbar-toggle button {
     font-size: 32px;
   }
+
+  .navbar-toggle {
+    margin-top: 0px;
+  }
+  .navbar-default .navbar-nav>li>a {
+    text-align: center;
+    font-size: 21px;
+    color: #504957;
+    font-weight: 600;
+  }
+  .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+  }
+  
   .about-content {
     width: 100%;
     margin: 0px;
